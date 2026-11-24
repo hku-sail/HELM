@@ -1,7 +1,6 @@
 # HELM
 
-This repository is the official implementation of the paper "*Learning
-Household Skills for Humanoid Robots with Human Egocentric Videos*".
+This repository is the official implementation of the paper "*Bio-inspired learning equips humanoid robots with versatile household skills*".
 
 HELM is a humanoid vision-language-action policy with a world-action context backbone, a vision-language
 feature extractor, and a diffusion action head. This
